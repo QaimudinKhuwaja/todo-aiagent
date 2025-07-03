@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "task": "Buy groceries",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "task": "Finish project report",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "title": "i make tea today",
+        "description": "i make tea today",
+        "due_date": "2025-07-02",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "title": "learn next.js",
+        "description": "i can not learn python i will learn next.js",
+        "due_date": "2025-07-08",
+        "completed": false
+    },
+    {
+        "id": 5,
+        "title": "Learn Agentic AI",
+        "description": "Learn Agentic AI",
+        "due_date": "2025-07-06",
+        "completed": false
+    }
+]
